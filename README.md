@@ -33,8 +33,8 @@ Esse projeto consiste na resolução de problemas do LeetCode e do BeeCrowd, uti
 
 ### Is Graph Bipartite 
 
-![Is Graph Bipartite](https://www.youtube.com/watch?v=lAJFr5XU7vM)
+[Is Graph Bipartite](https://www.youtube.com/watch?v=lAJFr5XU7vM)
 
 ### Count Visited Nodes in a Directed Graph
 
-![Count Visited Nodes in a Directed Graph](https://youtu.be/PzhO-wy4Z0U?si=OP4n193tUzPmcxtB)
+[Count Visited Nodes in a Directed Graph](https://youtu.be/PzhO-wy4Z0U?si=OP4n193tUzPmcxtB)
