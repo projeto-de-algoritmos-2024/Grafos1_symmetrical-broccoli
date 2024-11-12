@@ -12,30 +12,43 @@ Temas:
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Grafos 1 -  LeetCode e BeeCrowd
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 221007850 |  Arthur Ribeiro e Sousa |
+| xx/xxxxxx  |  Henrique Camelo Quenino |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Esse projeto consiste na resolução de problemas do LeetCode e do BeeCrowd, utilizando algoritmos de grafos. 
+
+## Problemas
+
+| Problema | Código | Dificuldade | Responsável |
+| -- | -- | -- | -- |
+| [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/) | 785 | Média | Arthur |
+| [Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/) | 2876 | Difícil | Arthur |
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Is Graph Bipartite
+![Is Graph Bipartite](./assets/bipartite.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+### Count Visited Nodes in a Directed Graph
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+![Count Visited Nodes in a Directed Graph](./assets/directed.png)
+
+## Vídeos de explicação
+
+### Is Graph Bipartite 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAJFr5XU7vM?si=2ok9fpWp6WjrGl2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Count Visited Nodes in a Directed Graph
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PzhO-wy4Z0U?si=qXGtO0AZPjKX57dK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
